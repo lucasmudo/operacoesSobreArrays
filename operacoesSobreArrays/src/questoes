@@ -5,7 +5,8 @@
    primeiraCopia = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0}
    segundaCopia = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0}
 
-3) Constantes = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0}
+3) constantes = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0}
+   duplicata = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0}
 
 4) Não, pois o tamanho do array não é variável depois que o mesmo é inicializado
 
