@@ -1,0 +1,37 @@
+1) a)9 posições
+   b)A letra 'E'
+
+2) valores = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0}
+   primeiraCopia = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0}
+   segundaCopia = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0}
+
+3) Constantes = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0}
+
+4) Não, pois o tamanho do array não é variável depois que o mesmo é inicializado
+
+5) Ver classe Questao5
+
+6) Ver classe Questao6
+
+7) Ver classe Questao7
+
+8) Ver classe ArrayDeFloats
+
+9) Ver classe ArrayDeFloats
+
+10) Ver classe ArrayDeFloats
+
+11) Ver classe Questao11
+
+12) Ver classe Questao12
+
+13) Ver classe Questao13
+
+14) Ver classe ArrayDeFloats
+
+15) Ver classe ArrayDeFloats
+
+16) Ver classe JogoDaVelha
+
+17) Ver classe QuadradoMagico
+
